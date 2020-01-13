@@ -1,0 +1,8 @@
+## Interface: 80205
+## Title: AzerRight
+## Author: Aelindil (Moon Guard NA)
+## Version: 1.0
+## Notes: Highlights Optimal Azerite Trait choice
+## DefaultState: enabled
+AzerRight.lua
+Load.xml
